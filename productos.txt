@@ -16,5 +16,23 @@
     "title": "lavarropa",
     "price": 86200,
     "thumbnail": "https://medias.musimundo.com/medias/00199039-135728-135728-01-135728-01.jpg"
+  },
+  {
+    "id": 4,
+    "title": "notebook",
+    "price": 251500,
+    "thumbnail": "https://medias.musimundo.com/medias/00476007-144936-144936-01-144936-01.jpg"
+  },
+  {
+    "id": 5,
+    "title": "cafetera",
+    "price": 108300,
+    "thumbnail": "https://medias.musimundo.com/medias/00558060-146480-146480-01-146480-01.jpg"
+  },
+  {
+    "id": 6,
+    "title": "lavarropa",
+    "price": 86200,
+    "thumbnail": "https://medias.musimundo.com/medias/00199039-135728-135728-01-135728-01.jpg"
   }
 ]

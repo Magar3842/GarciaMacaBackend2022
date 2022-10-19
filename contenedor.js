@@ -46,8 +46,8 @@ class Contenedor{
         console.log(error)
       }
   }
- 
-   async getAll() {
+
+    async getAll() {
       try {
           if(fs.existsSync(this.archivo)){
           let info= await fs.promises.readFile(this.archivo, 'utf8');
