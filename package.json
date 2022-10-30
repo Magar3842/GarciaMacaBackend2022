@@ -1,0 +1,23 @@
+{
+  "name": "backend38130garciamacarena",
+  "version": "1.0.0",
+  "description": "serie de ejercicios de los temas vistos y desafios entregables.\r DETALLE DE TEMAS VISTOS:\r Programación sincrónica y asincrónica\r Manejo de Archivos en Javascript\r Administradores de Paquetes - NPM\r Servidores Web\r Servidor con Express\r Express Avanzado\r Router & Multer\r API RESTful\r Motores de Plantillas\r Pug & Ejs\r Websockets\r Aplicación chat con Websocket\r Node.js como herramienta de desarrollo\r Webpack: Module Bundler\r SQL\r SQL y Node.js\r MongoDB\r CRUD en MongoDB\r Mongoose\r DbaaS & Firebase\r Trabajo con datos: Mocks\r Trabajo con datos: Normalización\r Cookies, Sesiones, Storages - Parte 1\r Cookies, Sesiones, Storages - Parte 2\r LOG-IN POR FORMULARIO\r Autorización y autenticación\r Estrategias de autenticación con redes sociales\r Inicio de sesión\r Proceso principal del servidor\r Global & Child process\r Desafío: Usando el objeto process\r Clusters & Escalabilidad\r PROXY & NGINX\r Desafío: Servidor con balance de carga\r Logs, profiling & debug - Parte I\r Logs, profiling & debug - Parte II\r Product Cloud: Heroku\r Product Cloud: AWS\r Envío de mensajes y seguridad\r Twilio & OWASP\r Versiones & Paquetes\r Arquitectura de capas\r Arquitectura del servidor: Diseño\r Arquitectura del servidor: Persistencia\r Desarrollo de un servidor web basado en capas completo\r Testeo de funcionalidades\r Documentación de APIs\r GraphQL\r Introducción a frameworks de desarrollo Backend - Parte I\r Introducción a frameworks de desarrollo Backend - Parte 2\r El futuro de Nodejs: Deno\r Desarrollo de una API REST en Deno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magar3842/GarciaMacaBackend2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magar3842/GarciaMacaBackend2022/issues"
+  },
+  "homepage": "https://github.com/Magar3842/GarciaMacaBackend2022#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
